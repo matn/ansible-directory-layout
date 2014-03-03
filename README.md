@@ -1,1 +1,1 @@
-Ansible project directory structure. Can be used as a starting point for your ansible project. 
+Ansible project directory structure. Can be used as a template for your ansible project. 
